@@ -22787,7 +22787,7 @@ var Home = function Home() {
         _react2.default.createElement(
             "div",
             null,
-            "Server Side Rendering POC 1"
+            "Server Side Rendering POC"
         ),
         _react2.default.createElement(
             "button",
